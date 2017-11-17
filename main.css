@@ -1,0 +1,58 @@
+*
+	{
+		font-family: 'Rubik', sans-serif;
+	}
+
+h1.heading
+	{
+		color: #f04e17;
+		text-align: center;
+	}
+body
+	{
+		background-color: black ;
+	}
+
+div.clear
+	{
+		clear: both;
+	}
+
+div.top
+	{
+		width: 100%;
+		background-color: #e89005;
+	}
+
+div.info0
+	{
+		background-color: orange;
+		margin-top: 100px;
+		float: left;
+		width: 49%;
+	}
+
+div.info1
+	{
+		background-color: orange;
+		margin-top: 50px;
+		float: left;
+		width: 49%;
+	}
+
+img.sit
+	{
+		margin-right: 60%;
+		margin-left: 40%;
+		width: 20%;
+		height: 20%;
+	}
+
+img.race
+	{
+		float: right;
+		width: 20%;
+		height: 20%;
+
+	}
+
